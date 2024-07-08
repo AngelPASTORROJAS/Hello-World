@@ -12,6 +12,13 @@
   ![3](img/new-branch.png)
 - [x] Cloner la branch en utilisant la clé Https en local (GitBash)
   ![4](img/save-https.png)
-- [ ] Editer le README.md
-- [ ] Pusher le README (ou tout le dossier) sur GitHub
+  ![4](img/open-dir.png)
+  ![4](img/git-clone.png)
+- [x] Editer le README.md
+- [x] Pusher le README (ou tout le dossier) sur GitHub
+```bash
+git add .
+git commit -m "modification du Readme"
+git fetch
+```
 - [ ] Merger la branch Develop sur la Branch Main
